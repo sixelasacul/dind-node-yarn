@@ -1,4 +1,3 @@
-# build ontop of official Java image
 FROM node:8-stretch-slim
 MAINTAINER Paul Queruel <paul.queruel@viacesi.fr>
 
