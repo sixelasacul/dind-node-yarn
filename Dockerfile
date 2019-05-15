@@ -32,7 +32,7 @@ RUN \
 
 # Install Jest
 RUN \
-    yarn add --dev jest
+    yarn global add jest
 
 RUN \
     apt-get clean && \
